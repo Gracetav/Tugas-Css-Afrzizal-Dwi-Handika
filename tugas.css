@@ -1,0 +1,48 @@
+.body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.w{
+    font-variant: small-caps;
+    font-size: 23px;
+}
+.sklh{
+    color: blue;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 23px;
+    
+}
+.hm{
+    text-decoration: none;
+    background-color: blue;
+    color: aliceblue;
+    text-space
+}
+.smk{
+    color: blue;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.akl{
+    background-color: blueviolet;
+    color: blue;
+    line-height: 35px;
+}
+.gtk{
+    background-color: brown;
+    color: red;
+    line-height: 35px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.psd{
+    color: green;
+    background-color: greenyellow;
+    line-height: 35px;
+}
+ .cpy{
+    text-align: center;
+ }
+ .yn{
+    color: blue;
+ }
